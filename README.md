@@ -1,3 +1,5 @@
+wtf is this ?!
+
 1. Black scholes model:
 Numba-accelerated core (with a custom norm_cdf) for performance.
 Includes standard pricing, American put approximation, Greeks (delta, gamma, vega, theta, rho), and a Newton–Raphson scheme for implied volatility.
